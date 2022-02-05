@@ -9,9 +9,8 @@ export default {
   accomplishments: {
     name: "Recent Accomplishments",
     value: [
-      "Learned HTML + CSS",
-      "Started a side project",
-      "Cooked meal for myself and choked to death",
+      "Completed my assignments",
+      "Got Whitelist in NFT Server",
     ],
   },
   socialLink: {
