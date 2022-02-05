@@ -58,14 +58,11 @@ export default {
   workExperience: [
     {
       info: {
-        "Company": ["Apple"],
         "Description": [
-          "Looking to improve the overall quality of the product through a design thinking approach, as well as conducting Usability sessions to ensure the product appeals to our users.",
+          "Practice Post for New York Subliners. Tried a more rustic theme to match their New York Vibe!",
         ],
-	      "My Objectives": [
-	        "User Testing",
-	        "Accessibility improvements"
-	      ],
+	     
+	     
       },
 
       link: "/",
@@ -73,14 +70,11 @@ export default {
     },
     {
       info: {
-        "Company": ["Apple"],
+ 
         "Description": [
-          "Looking to improve the overall quality of the product through a design thinking approach, as well as conducting Usability sessions to ensure the product appeals to our users.",
+          "Commissioned Twitter Header. Went for a different style for this one."
         ],
-        "My Objectives": [
-          "User Testing",
-          "Accessibility improvements"
-        ],
+        
       },
 
       link: "/",
@@ -88,14 +82,11 @@ export default {
     },
     {
       info: {
-        "Company": ["Apple"],
+       
         "Description": [
-          "Looking to improve the overall quality of the product through a design thinking approach, as well as conducting Usability sessions to ensure the product appeals to our users.",
+          "Practice Post for Falcons Esports. Tried Rocket League designed for the First Time, designed the decal myself too!"
         ],
-        "My Objectives": [
-          "User Testing", 
-          "Accessibility improvements"
-        ],
+       
       },
 
       link: "/",
