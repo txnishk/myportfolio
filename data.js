@@ -17,12 +17,8 @@ export default {
   socialLink: {
     name: "Social Links",
     value: [
-      { name: "Instagram", link: "/" },
-      { name: "Dribbble", link: "/" },
-      { name: "Twitter", link: "/" },
-      { name: "Github", link: "/" },
-      { name: "Youtube", link: "/" },
-      { name: "Spotify", link: "/" },
+      { name: "Twitter", link: "https://twitter.com/madebytanishk" },
+      { name: "Behance", link: "https://www.behance.net/madebytanishk" },
     ],
   },
   currentProfession: {
