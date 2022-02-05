@@ -35,19 +35,19 @@ export default {
     value: [
       {
         name: "Gmail",
-        value: "therealjohndoe@gmail.com",
+        value: "tanishk10sharma@gmail.com",
       },
       {
         name: "Discord",
-        value: "DopeAss#9669",
+        value: "txnishk#0771",
+        
+	name: "Twitter",
+        value: "madebytanishk",
       },
     ],
   },
   currentStatus: {
-    name: "What am I upto right now",
-    value: [
-      "Walking my dog in the park",
-      "Making dog excuse to gawk at the hot girl",
+    
     ],
   },
 
