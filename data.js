@@ -38,16 +38,16 @@ export default {
         value: "tanishk10sharma@gmail.com",
       },
       {
-        name: "Discord",
-        value: "txnishk#0771",
-        
-	name: "Twitter",
+        name: "Twitter",
         value: "madebytanishk",
       },
     ],
   },
   currentStatus: {
-    
+    name: "What am I upto right now",
+    value: [
+      "Walking my dog in the park",
+      "Making dog excuse to gawk at the hot girl",
     ],
   },
 
