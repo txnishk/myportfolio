@@ -1,9 +1,9 @@
 /* eslint-disable import/no-anonymous-default-export */
 export default {
-  name: "Henry",
-  email: "therealjohndoe@gmail.com",
+  name: "Tanishk",
+  email: "tanishk10sharma@gmail.com",
   about:
-    "Hey! I'm <b>Henry</b>, a twenty-four years old <b>User Interface</b> and <b>Experience Designer</b> currently based in <b>California</b>.",
+    "Hey! I'm <b>Tanishk</b>, a 15 year old <b>Social Media</b> and <b>Thumbnail Designer</b> currently based in <b>India</b>.",
 
   // intro
   accomplishments: {
