@@ -99,7 +99,7 @@ export default {
       },
 
       link: "/",
-      image: "/images/anni-breeze.png",
+      image: "/images/.png",
     },
   ],
 
