@@ -46,8 +46,8 @@ export default {
   currentStatus: {
     name: "What am I upto right now",
     value: [
-      "Walking my dog in the park",
-      "Making dog excuse to gawk at the hot girl",
+      "Completing Commissions",
+      "Grinding Whitelists in NFT Servers",
     ],
   },
 
