@@ -69,7 +69,7 @@ export default {
       },
 
       link: "/",
-      image: "/images/apple.png",
+      image: "/images/nysl.png",
     },
     {
       info: {
@@ -84,7 +84,7 @@ export default {
       },
 
       link: "/",
-      image: "/images/spiderman.png",
+      image: "/images/phantom-travis.png",
     },
     {
       info: {
@@ -99,7 +99,7 @@ export default {
       },
 
       link: "/",
-      image: "/images/microsoft.png",
+      image: "/images/anni-breeze.png",
     },
   ],
 
