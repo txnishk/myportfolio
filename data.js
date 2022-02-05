@@ -99,7 +99,7 @@ export default {
       },
 
       link: "/",
-      image: "/images/.png",
+      image: "/images/jez.png",
     },
   ],
 
